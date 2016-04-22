@@ -8,9 +8,9 @@ Porting Unity's UMA to Unreal Engine
 
 UMA (Unity Multipurpose Avatar) is a hugely popular character mesh library for Unity (a de facto standard), with thousands of assets ripe for the game making. You want a game with interchangeable armour and clothing for your characters at runtime, there isn't really anything a whole lot better.  UMA also has code that allows you to adjust these assets, like literally 100+ options at a character create sceen.
 
-But for now, they are stuck in Unity and can't be used here.
-
 Luckily, the UMA skeletons seem to be built from the same general humanoid template as the Unreal mannequin. This means every Epic skeleton animation in the UE Marketplace can be used on these characters.
+
+But for now, they are stuck in Unity and can't be used here.  Besides this quick proof of concept: http://i.imgur.com/HVVMFMa.gifv
 
 ## Get Started
 1. Clone this repo.  `git clone https://github.com/zerosum0x0/UEMA.git`
@@ -20,6 +20,10 @@ Luckily, the UMA skeletons seem to be built from the same general humanoid templ
 5. Profit
 
 Create an issue if you are going to work on a major area of this, or if you get stuck and need some code done.  The aim is to convert the entire system 1:1 into Blueprints and C++.
+
+## Helpful Links
+
+https://docs.unrealengine.com/latest/INT/Engine/Animation/RetargetingDifferentSkeletons/
 
 ## Legal
 Disclaimer: UEMA doesn't stand for anything.
