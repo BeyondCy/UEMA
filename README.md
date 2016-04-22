@@ -28,7 +28,7 @@ https://docs.unrealengine.com/latest/INT/Engine/Animation/RetargetingDifferentSk
 ## Legal
 Disclaimer: UEMA doesn't stand for anything.
 
-UMA is licensed under MIT, meaning you can use it freely, even for commercial purposes, as long as you distribute a copy of their license with your game.
+UMA is licensed under MIT, as is UEMA, meaning you can use it freely, even for commercial purposes, as long as you distribute a copy of their license with your game.
 
 Unity's asset license is generally permissive to other engines. In addition there is an extra clause (2.7) that says open source licenses take precedent over Unity's EULA.
 
